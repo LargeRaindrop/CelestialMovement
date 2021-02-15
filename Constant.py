@@ -1,0 +1,1 @@
+GRAVITY_CONST = 1
